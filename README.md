@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jc-55" alt="jc-55" /> </p>
 
-- 🔭 I’m currently working on **an airbnb-clone with react**
+- 🔭 I’m currently working on **learning new skills**
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **JavaScript, React, Go and more**
 
 - 💬 Ask me about **react**
 
