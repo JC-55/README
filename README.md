@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **learning new skills**
 
-- 🌱 I’m currently learning **JavaScript, React, Go and more**
+- 🌱 I’m currently learning **JavaScript, React, Node.js and more**
 
 - 💬 Ask me about **react**
 
