@@ -1,13 +1,13 @@
 # README
 
 <h1 align="center">Hi 👋, I'm JeanCharles</h1>
-<h3 align="center">A passionate full stack web developer</h3>
+<h3 align="center">A passionate Blockchain developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jc-55" alt="jc-55" /> </p>
 
-- 🔭 I’m currently working on **learning new skills**
+- 🔭 I’m currently working on **Defi and Blockchain Development**
 
-- 🌱 I’m currently learning **JavaScript, React, Node.js and more**
+- 🌱 I’m currently learning **Solidity, DeFi**
 
 - 💬 Ask me about **react**
 
